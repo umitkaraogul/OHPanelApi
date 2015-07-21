@@ -1,0 +1,7 @@
+D:\Repos\OHPanelApi\OHPanelUnitTest\bin\Debug\OHPanelApi.dll
+D:\Repos\OHPanelApi\OHPanelUnitTest\bin\Debug\OHPanelUnitTest.dll
+D:\Repos\OHPanelApi\OHPanelUnitTest\bin\Debug\OHPanelUnitTest.pdb
+D:\Repos\OHPanelApi\OHPanelUnitTest\bin\Debug\OHPanelApi.pdb
+D:\Repos\OHPanelApi\OHPanelUnitTest\obj\Debug\OHPanelUnitTest.csprojResolveAssemblyReference.cache
+D:\Repos\OHPanelApi\OHPanelUnitTest\obj\Debug\OHPanelUnitTest.dll
+D:\Repos\OHPanelApi\OHPanelUnitTest\obj\Debug\OHPanelUnitTest.pdb

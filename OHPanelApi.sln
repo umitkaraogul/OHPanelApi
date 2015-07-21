@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40121.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OHPanelApi", "OHPanelApi\OHPanelApi.csproj", "{53BC4C1E-4B8D-433F-9A39-01492C62F236}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OhPanelConsoleApp", "OhPanelConsoleApp\OhPanelConsoleApp.csproj", "{5C5C08DC-FEB9-432E-8365-F7AE6648CC08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OHPanelWinApp", "OHPanelWinApp\OHPanelWinApp.csproj", "{2EBE430A-4F0B-4C0F-A46C-ADD14026F494}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OHPanelUnitTest", "OHPanelUnitTest\OHPanelUnitTest.csproj", "{FA493764-1EC2-4DC1-B19F-C419DE001041}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53BC4C1E-4B8D-433F-9A39-01492C62F236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53BC4C1E-4B8D-433F-9A39-01492C62F236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53BC4C1E-4B8D-433F-9A39-01492C62F236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53BC4C1E-4B8D-433F-9A39-01492C62F236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C5C08DC-FEB9-432E-8365-F7AE6648CC08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C5C08DC-FEB9-432E-8365-F7AE6648CC08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C5C08DC-FEB9-432E-8365-F7AE6648CC08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C5C08DC-FEB9-432E-8365-F7AE6648CC08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EBE430A-4F0B-4C0F-A46C-ADD14026F494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EBE430A-4F0B-4C0F-A46C-ADD14026F494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EBE430A-4F0B-4C0F-A46C-ADD14026F494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EBE430A-4F0B-4C0F-A46C-ADD14026F494}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA493764-1EC2-4DC1-B19F-C419DE001041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA493764-1EC2-4DC1-B19F-C419DE001041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA493764-1EC2-4DC1-B19F-C419DE001041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA493764-1EC2-4DC1-B19F-C419DE001041}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

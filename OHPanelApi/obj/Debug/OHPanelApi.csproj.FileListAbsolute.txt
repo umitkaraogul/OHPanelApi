@@ -1,0 +1,10 @@
+D:\Other\Work\OHPanelApi\OHPanelApi\bin\Debug\OHPanelApi.dll
+D:\Other\Work\OHPanelApi\OHPanelApi\bin\Debug\OHPanelApi.pdb
+D:\Other\Work\OHPanelApi\OHPanelApi\obj\Debug\OHPanelApi.dll
+D:\Other\Work\OHPanelApi\OHPanelApi\obj\Debug\OHPanelApi.pdb
+D:\Other\Work\OHPanelApi\OHPanelApi\obj\Debug\OHPanelApi.csprojResolveAssemblyReference.cache
+D:\Repos\OHPanelApi\OHPanelApi\bin\Debug\OHPanelApi.dll
+D:\Repos\OHPanelApi\OHPanelApi\bin\Debug\OHPanelApi.pdb
+D:\Repos\OHPanelApi\OHPanelApi\obj\Debug\OHPanelApi.dll
+D:\Repos\OHPanelApi\OHPanelApi\obj\Debug\OHPanelApi.pdb
+D:\Repos\OHPanelApi\OHPanelApi\obj\Debug\OHPanelApi.csprojResolveAssemblyReference.cache

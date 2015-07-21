@@ -1,0 +1,16 @@
+D:\Other\Work\OHPanelApi\OhPanelConsoleApp\bin\Debug\OhPanelConsoleApp.exe.config
+D:\Other\Work\OHPanelApi\OhPanelConsoleApp\bin\Debug\OhPanelConsoleApp.exe
+D:\Other\Work\OHPanelApi\OhPanelConsoleApp\bin\Debug\OhPanelConsoleApp.pdb
+D:\Other\Work\OHPanelApi\OhPanelConsoleApp\bin\Debug\OHPanelApi.dll
+D:\Other\Work\OHPanelApi\OhPanelConsoleApp\bin\Debug\OHPanelApi.pdb
+D:\Other\Work\OHPanelApi\OhPanelConsoleApp\obj\Debug\OhPanelConsoleApp.csprojResolveAssemblyReference.cache
+D:\Other\Work\OHPanelApi\OhPanelConsoleApp\obj\Debug\OhPanelConsoleApp.exe
+D:\Other\Work\OHPanelApi\OhPanelConsoleApp\obj\Debug\OhPanelConsoleApp.pdb
+D:\Repos\OHPanelApi\OhPanelConsoleApp\bin\Debug\OhPanelConsoleApp.exe.config
+D:\Repos\OHPanelApi\OhPanelConsoleApp\bin\Debug\OhPanelConsoleApp.exe
+D:\Repos\OHPanelApi\OhPanelConsoleApp\bin\Debug\OhPanelConsoleApp.pdb
+D:\Repos\OHPanelApi\OhPanelConsoleApp\bin\Debug\OHPanelApi.dll
+D:\Repos\OHPanelApi\OhPanelConsoleApp\bin\Debug\OHPanelApi.pdb
+D:\Repos\OHPanelApi\OhPanelConsoleApp\obj\Debug\OhPanelConsoleApp.csprojResolveAssemblyReference.cache
+D:\Repos\OHPanelApi\OhPanelConsoleApp\obj\Debug\OhPanelConsoleApp.exe
+D:\Repos\OHPanelApi\OhPanelConsoleApp\obj\Debug\OhPanelConsoleApp.pdb
